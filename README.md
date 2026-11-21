@@ -1,5 +1,7 @@
 # @zooai/helper
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zooai/helper&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zooai/helper&ref=main&action=edit)
+
 > Sign in to Zoo and use its AI models in Claude Code, Codex, and more.
 
 ```bash
